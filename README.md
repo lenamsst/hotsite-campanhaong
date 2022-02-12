@@ -27,6 +27,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - HTML
 - CSS
 - JAVASCRIPT
+- FIGMA
 
 ## 🤝 Colaboradores
 
@@ -51,14 +52,23 @@ Pessoas que contribuíram para este projeto:
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/GSTVROLIVEIRA"">
+      <a href="https://github.com/GSTVROLIVEIRA">
         <img src="https://avatars.githubusercontent.com/u/94142716?v=4" width="100px;" alt="Foto do Gustavo no github"/><br>
         <sub>
           <b>Gustavo Ribeiro</b>
         </sub>
       </a>
     </td> 
- 
+    <td align="center">
+      <a href="">
+        <img src="https://i.imgur.com/GnPHozv.jpg" width="100px;" alt="Foto do Gustavo no github"/><br>
+        <sub>
+          <b>Vinicius Sesma</b>
+        </sub>
+      </a>
+    </td> 
+                                                                                                                      
+                                                                                                                      
   </tr>
 </table>
 
