@@ -32,38 +32,97 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🤝 Colaboradores
 
 Pessoas que contribuíram para este projeto:
-
 <table align="center">
   <tr>
      <td align="center">
       <a href="https://github.com/lenamsst">
-        <img src="https://avatars.githubusercontent.com/u/85361518?v=4" width="100px;" alt="Foto da Milena no github"/><br>
+        <img src="https://avatars.githubusercontent.com/u/85361518?v=4" width="80px;" alt="Foto da Milena no github"/><br>
         <sub>
-          <b>Milena Garcia</b>
+          <b> Milena Garcia Software Developer :woman_technologist:</b>
         </sub>
       </a>
     </td>
       <td align="center">
       <a href="https://github.com/davidbechi">
-        <img src="https://avatars.githubusercontent.com/u/52297085?v=4" width="100px;" alt="Foto do David no github"/><br>
+        <img src="https://avatars.githubusercontent.com/u/52297085?v=4" width="80px;" alt="Foto do David no github"/><br>
         <sub>
-          <b>David Bechi</b>
+          <b>David Bechi Software Developer :man_technologist:</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/GSTVROLIVEIRA">
-        <img src="https://avatars.githubusercontent.com/u/94142716?v=4" width="100px;" alt="Foto do Gustavo no github"/><br>
+        <img src="https://avatars.githubusercontent.com/u/94142716?v=4" width="80px;" alt="Foto do Gustavo no github"/><br>
         <sub>
-          <b>Gustavo Ribeiro</b>
+          <b>Gustavo Ribeiro Software Developer :man_technologist:</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="">
+        <img src="https://i.imgur.com/drwsBzm.jpg" width="80px;" alt="Foto do Jeovane no github"/><br>
+        <sub>
+          <b>Jeovane dos Santos  Software Developer :man_technologist:</b>
+        </sub>
+      </a>
+    </td> 
+     <td align="center">
+      <a href="">
+        <img src="https://avatars.githubusercontent.com/u/93954407?v=4" width="80px;" alt="Foto do Lucas no github"/><br>
+        <sub>
+          <b>Lucas Garcia Software Developer :man_technologist:</b>
         </sub>
       </a>
     </td> 
     <td align="center">
       <a href="">
-        <img src="https://i.imgur.com/GnPHozv.jpg" width="100px;" alt="Foto do Gustavo no github"/><br>
+        <img src="https://avatars.githubusercontent.com/u/73660994?v=4" width="80px;" alt="Foto do Alexandre no github"/><br>
         <sub>
-          <b>Vinicius Sesma</b>
+          <b>Alexandre Barbosa Software Developer :man_technologist:</b>
+        </sub>
+      </a>
+    </td> 
+    <td align="center">
+      <a href="">
+        <img src="https://avatars.githubusercontent.com/u/85888037?v=4" width="80px;" alt="Foto do Victor no github"/><br>
+        <sub>
+          <b>Victor Castro Software Developer :man_technologist:</b>
+        </sub>
+      </a>
+    </td>
+      </tr>
+</table>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="">
+        <img src="https://i.imgur.com/5YXyaY1.jpg" width="80px;" alt="Foto do Vinicius no github"/><br>
+        <sub>
+          <b>Isadora Igarashi - Product Design :woman_technologist:</b>
+        </sub>
+      </a>
+    </td> 
+    <td align="center">
+      <a href="">
+        <img src="https://i.imgur.com/HA9L4ql.jpg" width="80px;" alt="Foto do Felipe no github"/><br>
+        <sub>
+          <b>Orlando Felipe - Product Design :man_technologist:</b>
+        </sub>
+      </a>
+    </td> 
+    <td align="center">
+      <a href="">
+        <img src="https://i.imgur.com/y40zEvh.png" width="80px;" alt="Foto do Bruno no github"/><br>
+        <sub>
+          <b>Bruno Damasceno - Product Design :man_technologist:</b>
+        </sub>
+      </a>
+    </td>
+     <td align="center">
+      <a href="">
+        <img src="https://i.imgur.com/GnPHozv.jpg" width="80px;" alt="Foto do Vinicius no github"/><br>
+        <sub>
+          <b>Vinicius Sesma - Product Design :man_technologist:</b>
         </sub>
       </a>
     </td> 
